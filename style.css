@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    margin: 2em;
+}
+
+.project-card {
+    border: 1px solid #ddd;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+.Hi{
+    border-radius: 100px;
+}
